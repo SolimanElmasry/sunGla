@@ -1,0 +1,14 @@
+@media (max-width:480px){
+    header ul{
+        opacity:0;
+    }
+    .bar{
+        width:100px;
+    }
+    .about{
+        flex-direction:column;
+    }
+    .about .left{
+        display:none;
+    }
+}
